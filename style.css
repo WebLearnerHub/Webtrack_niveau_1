@@ -1,0 +1,21 @@
+body {
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #3d3232;
+    background-attachment: fixed;
+   }
+
+.belle_police {
+    color: white;
+    font-family: Verdana;
+    font-size: 100%;
+    text-align: center;
+}
+
+.belle_police_titre {
+    color: white;
+    font-family: Verdana;
+    font-size: 400%;
+    text-align: center;
+}
